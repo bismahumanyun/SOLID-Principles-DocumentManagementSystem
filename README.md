@@ -25,7 +25,7 @@ Visual Studio 2019/2022
 .NET 9.0 SDK
 
 Installation
-1\. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/bismahumanyun/SOLID-Principles-DocumentManagementSystem.git 
 Open the solution in Visual Studio
