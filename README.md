@@ -27,7 +27,7 @@ Visual Studio 2019/2022
 Installation
 1\. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/solid-document-management.git
+git clone https://github.com/bismahumanyun/SOLID-Principles-DocumentManagementSystem.git 
 Open the solution in Visual Studio
 Build the solution (Ctrl+Shift+B)
 Run the application (F5)
@@ -44,6 +44,6 @@ SolidDocumentManagement/
 │   ├── ILocalStorage.cs
 │   ├── AwsStorage.cs
 │   └── LocalDiskStorage.cs
-└── Services/              - High-level services (DIP)
-&nbsp;   └── DocumentService.cs
+└── Services/              - High-level services (DIP
+    └── DocumentService.cs
 
