@@ -1,4 +1,4 @@
-# SOLID Document Management System
+# SOLID Principles - Document Management System
 
 A practical demonstration of SOLID principles in C# .NET, implemented as a console application for document processing.
 [SOLID Principles]
