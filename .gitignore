@@ -1,0 +1,68 @@
+## .NET Core ##
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet Packages
+*.nupkg
+.nuget/
+NuGet.exe
+
+# Local development files
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# Build results from running tests
+TestResults/
+
+# Rider IDE
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.rsuser
+
+# Visual Studio Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Local development files
+*.swp
+*.swo
+
+# VS Code workspace files
+*.code-workspace
+
+# Cake - Uncomment if using Cake
+# tools/
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.userprefs
